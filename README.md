@@ -8,6 +8,10 @@ This also includes a Code Editor which provides a place for writing HDL code;
 Simulation Tools which allows to run simulations similar to tools such as ModelSim, VCS, Icarus Verilog, and more;
 Libraries which offers a collection of libraries that can be used as reference.
 
+### Problem #3: Vectors Waveform Result
+![Getting Started](./images/vectors.png)
+![Getting Started](./images/vectors_2.png)
+
 ### Problem #2: XNOR Waveform Result
 ![Getting Started](./images/xnor_bd.png)
 
