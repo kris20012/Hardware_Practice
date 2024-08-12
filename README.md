@@ -8,6 +8,10 @@ This also includes a Code Editor which provides a place for writing HDL code;
 Simulation Tools which allows to run simulations similar to tools such as ModelSim, VCS, Icarus Verilog, and more;
 Libraries which offers a collection of libraries that can be used as reference.
 
+### Problem #5: Always Construct Analysis Results
+![Getting Started](./images/always.png)
+![Getting Started](./images/always_1.png)
+
 ### Problem #4: Concatenation & Replication Waveform Result
 ![Getting Started](./images/concatenation.png)
 
