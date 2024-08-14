@@ -8,6 +8,10 @@ This also includes a Code Editor which provides a place for writing HDL code;
 Simulation Tools which allows to run simulations similar to tools such as ModelSim, VCS, Icarus Verilog, and more;
 Libraries which offers a collection of libraries that can be used as reference.
 
+### Problem #6: Difference between Bitwise and Logical Operators Analysis Results
+![Getting Started](./images/bitwise_tb.png)
+![Getting Started](./images/bitwise.png)
+
 ### Problem #5: Always Construct Analysis Results
 ![Getting Started](./images/always.png)
 ![Getting Started](./images/always_1.png)
