@@ -8,6 +8,10 @@ This also includes a Code Editor which provides a place for writing HDL code;
 Simulation Tools which allows to run simulations similar to tools such as ModelSim, VCS, Icarus Verilog, and more;
 Libraries which offers a collection of libraries that can be used as reference.
 
+### Problem #8: Reverse Vector with For Loop Results
+![Getting Started](./images/reverse_vector2.png)
+![Getting Started](./images/reverse_vector.png)
+
 ### Problem #7: Priority Encoder Waveform Results
 ![Getting Started](./images/priorityEncoder2.png)
 ![Getting Started](./images/priorityEncoder.png)
