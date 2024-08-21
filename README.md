@@ -8,6 +8,10 @@ This also includes a Code Editor which provides a place for writing HDL code;
 Simulation Tools which allows to run simulations similar to tools such as ModelSim, VCS, Icarus Verilog, and more;
 Libraries which offers a collection of libraries that can be used as reference.
 
+### Problem #10: 7458 Chip Waveform Results
+![Getting Started](./images/7458.png)
+![Getting Started](./images/7458_2.png)
+
 ### Problem #9: Vector Concatenation Waveform Results
 ![Getting Started](./images/vec_concat_1.png)
 ![Getting Started](./images/vec_concat.png)
