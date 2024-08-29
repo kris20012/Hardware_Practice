@@ -8,6 +8,9 @@ This also includes a Code Editor which provides a place for writing HDL code;
 Simulation Tools which allows to run simulations similar to tools such as ModelSim, VCS, Icarus Verilog, and more;
 Libraries which offers a collection of libraries that can be used as reference.
 
+### Problem #14: 100 Bit Ripple Carry Adder Waveform Results
+![Getting Started](./images/adder_100b.png)
+
 ### Problem #13: 256 to 1 Mux Waveform Results
 ![Getting Started](./images/256to1mux.png)
 
