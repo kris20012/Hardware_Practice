@@ -8,6 +8,10 @@ This also includes a Code Editor which provides a place for writing HDL code;
 Simulation Tools which allows to run simulations similar to tools such as ModelSim, VCS, Icarus Verilog, and more;
 Libraries which offers a collection of libraries that can be used as reference.
 
+### Problem #15: 32 Bit Carry Select Adder Waveform Results
+![Getting Started](./images/carry_select_adder1.png)
+![Getting Started](./images/carry_select_adder.png)
+
 ### Problem #14: 100 Bit Ripple Carry Adder Waveform Results
 ![Getting Started](./images/adder_100b.png)
 
