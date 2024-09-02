@@ -6,13 +6,15 @@ module shift_register_4_bit(
     input [3:0] data,
     output reg [3:0] q); 
     
-    always@(areset, clk) begin
+   always@(posedge areset, posedge clk) begin
         if(areset)
             q <= 4'b0;
         else if(load)
             q <= data;
-        else if(ena)
-            q <= q >> 1;
+         else if(ena) begin
+             //q <= {1'b0, q[3:1]};
+             q <= q >> 1;
+         end
     end
 
 endmodule
