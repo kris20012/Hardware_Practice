@@ -8,6 +8,9 @@ This also includes a Code Editor which provides a place for writing HDL code;
 Simulation Tools which allows to run simulations similar to tools such as ModelSim, VCS, Icarus Verilog, and more;
 Libraries which offers a collection of libraries that can be used as reference.
 
+### Problem #17: Replication XOR Waveform Results
+![Getting Started](./images/replication_xor.png)
+
 ### Problem #16: 4 Bit Shift Register Waveform Results
 ![Getting Started](./images/shift_reg1.png)
 ![Getting Started](./images/shift_reg.png)
