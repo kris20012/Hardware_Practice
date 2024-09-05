@@ -8,6 +8,10 @@ This also includes a Code Editor which provides a place for writing HDL code;
 Simulation Tools which allows to run simulations similar to tools such as ModelSim, VCS, Icarus Verilog, and more;
 Libraries which offers a collection of libraries that can be used as reference.
 
+### Problem #18: Minimum Using Ternary Conditional Operator Waveform Results
+![Getting Started](./images/min1.png)
+![Getting Started](./images/min2.png)
+
 ### Problem #17: Replication XOR Waveform Results
 ![Getting Started](./images/replication_xor.png)
 
