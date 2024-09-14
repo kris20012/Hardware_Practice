@@ -8,7 +8,7 @@ module mux9to1_tb();
     reg [3:0] inp;
     reg [15:0] a, b, c, d, e, f, g, h, i;
     
-    mux9to1 dut (.sel(inp), .a(a), .b(b), .c(c), .d(d), .e(e), .f(f), .g(g), .h(h), .(i));
+  mux9to1 dut (.sel(inp), .a(a), .b(b), .c(c), .d(d), .e(e), .f(f), .g(g), .h(h), .i(i));
 
   	initial begin
       	$dumpfile("dump.vcd");
