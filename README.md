@@ -8,7 +8,10 @@ This also includes a Code Editor which provides a place for writing HDL code;
 Simulation Tools which allows to run simulations similar to tools such as ModelSim, VCS, Icarus Verilog, and more;
 Libraries which offers a collection of libraries that can be used as reference.
 
-### Problem #22: Fulll Adder Waveform Results
+### Problem #23: 100 Bit Rotary Encoder Waveform Results
+![Getting Started](./images/rotary_encoder.png)
+
+### Problem #22: Full Adder Waveform Results
 ![Getting Started](./images/full_adder.png)
 ![Getting Started](./images/full_adder_2.png)
 
