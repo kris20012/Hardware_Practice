@@ -8,6 +8,10 @@ This also includes a Code Editor which provides a place for writing HDL code;
 Simulation Tools which allows to run simulations similar to tools such as ModelSim, VCS, Icarus Verilog, and more;
 Libraries which offers a collection of libraries that can be used as reference.
 
+### Problem #25: Decade Counter Waveform Results
+![Getting Started](./images/decade_counter1.png)
+![Getting Started](./images/decade_counter.png)
+
 ### Problem #24: Mux with DFF Waveform Results
 ![Getting Started](./images/dffmux.png)
 ![Getting Started](./images/dffmux_sch.png)
